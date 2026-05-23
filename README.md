@@ -254,6 +254,7 @@ For more useful documentation about Anylinux-AppImages, see the pages below:
 | [Odamex](https://github.com/pkgforge-dev/Odamex-AppImage) |
 | [Obsidian](https://github.com/pkgforge-dev/Obsidian-AppImage-Enhanced) |
 | [okteta](https://github.com/pkgforge-dev/okteta-AppImage) |
+| [omikuji](https://github.com/reakjra/omikuji) |
 | [OpenBoardView](https://github.com/pkgforge-dev/OpenBoardView-AppImage) |
 | [OpenClaw](https://github.com/pkgforge-dev/OpenClaw-AppImage) |
 | [opencode](https://github.com/pkgforge-dev/opencode-AppImage-Enhanced) |
